@@ -22,10 +22,10 @@
   "frameworks": "XCTest",
   "dependencies": {
     "KIF": [
-      "~> 3.0"
+      ">= 3.7.8"
     ],
     "Quick": [
-      "~> 1.0"
+      ">= 1.3.4"
     ]
   }
 }

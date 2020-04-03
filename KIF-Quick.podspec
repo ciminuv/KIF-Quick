@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'KIF-Quick'
-  s.version          = '1.2.0'
+  s.version          = '1.2.1'
   s.summary          = 'Enable Behaviour-Driven Integration Tests built on KIF using Quick syntax'
   s.description      = <<-DESC
 Write Quick specs to drive KIF actors through user interface actions.
@@ -16,6 +16,6 @@ Write Quick specs to drive KIF actors through user interface actions.
   s.platform     = :ios, '8.0'
   s.source_files = 'KIF-Quick/Classes'
   s.framework = 'XCTest'
-  s.dependency 'KIF', '>= 3.7.8'
-  s.dependency 'Quick', '>= 1.3.4'
+  s.dependency 'KIF', '>= 3.7.9'
+  s.dependency 'Quick', '>= 2.0.0'
 end

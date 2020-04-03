@@ -1,10 +1,10 @@
 PODS:
-  - KIF (3.7.8):
-    - KIF/Core (= 3.7.8)
-  - KIF-Quick (1.1.0):
-    - KIF (>= 3.7.8)
-    - Quick (>= 1.3.4)
-  - KIF/Core (3.7.8)
+  - KIF (3.7.9):
+    - KIF/Core (= 3.7.9)
+  - KIF-Quick (1.2.1):
+    - KIF (>= 3.7.9)
+    - Quick (>= 2.0.0)
+  - KIF/Core (3.7.9)
   - Quick (2.2.0)
 
 DEPENDENCIES:
@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KIF: 52e1af1a78cf6fe4ec6777b14776f3dd2eccc32e
-  KIF-Quick: 218fc6aadb9d979f9b0afa5d866136a271923575
+  KIF: 350f96fb4205972a10e4c1a45774d48b2d8482d8
+  KIF-Quick: eb67086f02aab0cd1398bf3aca0b60edc52bb1df
   Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
 
 PODFILE CHECKSUM: 48447a2c9dab6d7233a99da1a7a9670158e4eb0e
